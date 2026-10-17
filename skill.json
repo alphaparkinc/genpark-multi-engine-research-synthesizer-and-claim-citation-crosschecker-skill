@@ -1,0 +1,8 @@
+{
+  "name": "genpark-multi-engine-research-synthesizer-and-claim-citation-crosschecker-skill",
+  "version": "1.0.0",
+  "description": "Multi-source search query decomposer, consensus synthesis engine, and claim-level citation cross-checker",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
